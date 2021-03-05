@@ -2,11 +2,7 @@
 
 ## I'm a studying web developer
 
-- 🔭 I’m currently a student studying software development
-- 🌱 I'm 17
-- 👯 I'm currently trying to get better at PHP and Python
-- 🥅 If you want to work together shoot me a DM
-- ⚡ I like playing guitar and making pixelart
+- 🌱 17
 
 ### Languages and Tools:
 
