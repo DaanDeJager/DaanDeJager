@@ -1,8 +1,8 @@
 ### Hi there, I'm Daan - aka Soap👋
 
-## I'm a studying web developer
+## I'm a web developer
 
-- 🌱 18
+- 🌱 19
 
 ### Languages and Tools:
 
